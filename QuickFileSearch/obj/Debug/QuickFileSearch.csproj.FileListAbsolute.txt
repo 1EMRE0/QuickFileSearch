@@ -1,0 +1,10 @@
+C:\Users\ovcke\Desktop\QuickFileSearch\QuickFileSearch\obj\Debug\QuickFileSearch.csproj.AssemblyReference.cache
+C:\Users\ovcke\Desktop\QuickFileSearch\QuickFileSearch\obj\Debug\QuickFileSearch.Form1.resources
+C:\Users\ovcke\Desktop\QuickFileSearch\QuickFileSearch\obj\Debug\QuickFileSearch.Properties.Resources.resources
+C:\Users\ovcke\Desktop\QuickFileSearch\QuickFileSearch\obj\Debug\QuickFileSearch.csproj.GenerateResource.cache
+C:\Users\ovcke\Desktop\QuickFileSearch\QuickFileSearch\obj\Debug\QuickFileSearch.csproj.CoreCompileInputs.cache
+C:\Users\ovcke\Desktop\QuickFileSearch\QuickFileSearch\bin\Debug\QuickFileSearch.exe.config
+C:\Users\ovcke\Desktop\QuickFileSearch\QuickFileSearch\bin\Debug\QuickFileSearch.exe
+C:\Users\ovcke\Desktop\QuickFileSearch\QuickFileSearch\bin\Debug\QuickFileSearch.pdb
+C:\Users\ovcke\Desktop\QuickFileSearch\QuickFileSearch\obj\Debug\QuickFileSearch.exe
+C:\Users\ovcke\Desktop\QuickFileSearch\QuickFileSearch\obj\Debug\QuickFileSearch.pdb
